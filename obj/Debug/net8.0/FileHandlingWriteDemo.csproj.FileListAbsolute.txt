@@ -1,0 +1,14 @@
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\bin\Debug\net8.0\FileHandlingWriteDemo.exe
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\bin\Debug\net8.0\FileHandlingWriteDemo.deps.json
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\bin\Debug\net8.0\FileHandlingWriteDemo.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\bin\Debug\net8.0\FileHandlingWriteDemo.dll
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\bin\Debug\net8.0\FileHandlingWriteDemo.pdb
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\FileHandlingWriteDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\FileHandlingWriteDemo.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\FileHandlingWriteDemo.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\FileHandlingWriteDemo.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\FileHandlingWriteDemo.dll
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\refint\FileHandlingWriteDemo.dll
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\FileHandlingWriteDemo.pdb
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\FileHandlingWriteDemo.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingWriteDemo\obj\Debug\net8.0\ref\FileHandlingWriteDemo.dll
